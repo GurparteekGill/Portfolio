@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "title": "Python",
+      "links": [
+        {
+          "text": "Link",
+          "href": "http://www.python.org"
+                }
+      ]
+    },
+    {
+      "title": "MySQL ",
+      "links": [
+        {
+          "text": "Link",
+          "href": "https://www.mysql.com/"
+        }
+      ]
+    },
+    {
+      "title": "Amazon Web Services",
+      "links": [
+        {
+          "text": "Link",
+          "href": "https://aws.amazon.com/"
+        }
+      ]
+    }
+   
+  ]
+}
