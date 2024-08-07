@@ -46,8 +46,6 @@ const Projects = (props) => {
                   </Fade>
                 ))}
               </Row>
-
-              
             </Container>
           </div>
         ) : <FallbackSpinner /> }

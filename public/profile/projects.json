@@ -1,16 +1,20 @@
 {
   "projects": [
     {
+      "image": "images/blogs/python.png",
       "title": "Python",
+      "bodyText": "- put some text here\n ",
       "links": [
         {
           "text": "Link",
           "href": "http://www.python.org"
-                }
+        }
       ]
     },
     {
-      "title": "MySQL ",
+      "image": "images/blogs/data.jpg",
+      "title": "Data Science ",
+      "bodyText": "- put some text here\n ",
       "links": [
         {
           "text": "Link",
@@ -19,7 +23,9 @@
       ]
     },
     {
+      "image": "images/blogs/aws.png",
       "title": "Amazon Web Services",
+      "bodyText": "- put some text here\n ",
       "links": [
         {
           "text": "Link",
@@ -27,6 +33,5 @@
         }
       ]
     }
-   
   ]
 }
