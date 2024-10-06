@@ -11,6 +11,19 @@
         }
       ]
     },
+  
+     {
+      "image": "images/blogs/data.jpg",
+      "title": "Data Science ",
+      "bodyText": "- put some text here\n ",
+      "links": [
+        {
+          "text": "Link",
+          "href": "https://www.mysql.com/"
+        }
+      ]
+    },
+
     {
       "image": "images/blogs/data.jpg",
       "title": "Data Science ",
@@ -22,7 +35,8 @@
         }
       ]
     },
-     {
+
+    {
       "image": "images/blogs/data.jpg",
       "title": "Data Science ",
       "bodyText": "- put some text here\n ",
@@ -33,17 +47,7 @@
         }
       ]
     },
-     {
-      "image": "images/blogs/data.jpg",
-      "title": "Data Science ",
-      "bodyText": "- put some text here\n ",
-      "links": [
-        {
-          "text": "Link",
-          "href": "https://www.mysql.com/"
-        }
-      ]
-    },
+    
     {
       "image": "images/blogs/aws.png",
       "title": "Amazon Web Services",
